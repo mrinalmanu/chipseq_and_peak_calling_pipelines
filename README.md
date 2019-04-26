@@ -1,6 +1,8 @@
 # epigenomics_2019_chipseq_analysis
 This is repository of my personal notes from 3 day module of Epigenomics from Bioinformatics Institute for students of Systems Biology and Bioinformatics.
 
+By Oleg Shpynov(oleg.shpynov@jetbrains.com) and Roman Chernyatchik(roman.chernyatchik@jetbrains.com).
+
 Due to fastq's being large please download them from here.
 
 Conventional ChIP-Seq
