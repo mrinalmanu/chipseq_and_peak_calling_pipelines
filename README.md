@@ -1,5 +1,5 @@
 # epigenomics_2019_chipseq_analysis
-This is 3 day module of Epigenomics from Bioinformatics Institute for students of Systems Biology and Bioinformatics.
+This is repository of my personal notes from 3 day module of Epigenomics from Bioinformatics Institute for students of Systems Biology and Bioinformatics.
 
 Due to fastq's being large please download them from here.
 
@@ -20,3 +20,9 @@ Download GSM3074495 FASTQ Files
 Align them to hg19 reference genome (which you also need to download)
 
 Then extract all the reads aligned to Chromosome 15 and you'll be ready to go.
+
+_____________________________________________________________________________________________________________________
+
+Alternatively, here is a docker script with stand-alone scripts.
+
+https://github.com/ctlab/sysbio-training/tree/master/masters-2019/epigenetics
